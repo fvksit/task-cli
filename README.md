@@ -15,3 +15,12 @@ A simple command-line interface (CLI) application to track and manage tasks. Thi
 Clone this repository:
    ```bash
    git clone https://github.com/username/task-tracker-cli.git
+
+cd task-tracker-cli
+
+node task-cli.js add
+
+node task-cli.js update
+
+node task-cli.js delete
+```
