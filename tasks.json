@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "begitu",
+        "status": "done",
+        "createdAt": "2024-10-09T14:38:18.128Z",
+        "updatedAt": "2024-10-09T14:49:16.161Z"
+    },
+    {
+        "id": 2,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2024-10-09T14:50:17.513Z",
+        "updatedAt": "2024-10-09T14:50:17.514Z"
+    },
+    {
+        "id": 3,
+        "description": "ahh",
+        "status": "in-progress",
+        "createdAt": "2024-10-09T14:50:34.493Z",
+        "updatedAt": "2024-10-09T14:51:01.849Z"
+    }
+]
